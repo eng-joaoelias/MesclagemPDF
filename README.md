@@ -17,19 +17,19 @@ Este é um aplicativo simples em Python usando Tkinter para mesclar arquivos PDF
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/pdf-merger-app.git
+    git clone https://github.com/eng-joaoelias/MesclagemPDF
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd pdf-merger-app
+    cd MesclagemPDF
     ```
 
 3. Execute o script Python:
 
     ```bash
-    python pdf_merger_app.py
+    python mesclagem.py
     ```
 
 4. Insira a quantidade de arquivos a mesclar e clique em "OK".
@@ -39,7 +39,7 @@ Este é um aplicativo simples em Python usando Tkinter para mesclar arquivos PDF
 
 ## Contribuindo
 
-Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/pdf-merger-app/issues) ou enviar um [pull request](https://github.com/seu-usuario/pdf-merger-app/pulls).
+Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/eng-joaoelias/MesclagemPDF/issues) ou enviar um [pull request](https://github.com/eng-joaoelias/MesclagemPDF/pulls).
 
 ## Licença
 
